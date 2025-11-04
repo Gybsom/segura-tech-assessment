@@ -1,0 +1,1 @@
+# segura-tech-assessment
