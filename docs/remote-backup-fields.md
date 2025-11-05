@@ -1,6 +1,6 @@
 # Remote Backup Configuration Fields
 
-This document provides a reference for the settings available on the [**Remote Backup configuration page**](/docs/how-to-configure-remote-backup.md) that are used when setting up a CIFS/NFS backup target.
+This document provides a reference for the settings available on the [**remote backup configuration page**](/docs/how-to-configure-remote-backup.md) that are used when setting up a CIFS/NFS backup target.
 
 ### General Settings
 
