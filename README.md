@@ -32,4 +32,4 @@ They take into account system administrators of varying levels of experience, fo
 
 [How to configure a remote backup using CIFS/NFS](/docs/how-to-configure-remote-backup.md)
 
-[Remote backup settings](/docs/reference.md)
+[Remote backup configuration fields](/docs/remote-backup-fields.md)
