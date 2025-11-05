@@ -20,11 +20,10 @@ They take into account system administrators of varying levels of experience, fo
 * **[Incorrect] Link placement at the end of the guide may be redundant.**
   
   The link titled _“Next steps after installation”_ at the end of the _About first installation steps_ page might be unnecessary, as the subsequent section already presents this content.
-<br></br>
+
 
 > Overall, the documentation is technically solid and well-structured, but it would benefit from additional operational guidance, contextual troubleshooting access, and validation cues to make the installation workflow more intuitive and efficient.
-> 
-<br></br>
+
 
 ## 2. Documentation Task
 

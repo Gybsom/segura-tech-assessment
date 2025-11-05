@@ -22,6 +22,7 @@ Segura® supports the two most common network file-sharing protocols for configu
 
 * **CIFS (Common Internet File System):** This is the standard protocol used by Windows servers and Samba services on Linux. It is the ideal choice if your organization's backup infrastructure is based on Windows file shares.
 * **NFS (Network File System):** This is the native file-sharing protocol for Linux and UNIX-based systems. It is preferred when backing up to a Linux-based NAS (Network Attached Storage) or file server.
-<br></br>
+
+
 ---
 [Back to Home](../README.md)
