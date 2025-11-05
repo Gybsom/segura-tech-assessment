@@ -28,8 +28,8 @@ They take into account system administrators of varying levels of experience, fo
 
 ## 2. Documentation Task
 
-[Understanding Remote Backups in Segura®](/docs/understanding-remote-backups.md)
+[Understanding Remote Backups in Segura®](/docs/understanding-remote-backup.md)
 
-[How to configure a remote backup using CIFS/NFS](/docs/howto.md)
+[How to configure a remote backup using CIFS/NFS](/docs/how-to-configure-remote-backup.md)
 
 [Remote backup settings](/docs/reference.md)
